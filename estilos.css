@@ -13,11 +13,8 @@
     text-align: center
 }
 
-.imagenpag1{
-    background-image: url(img/imagengrupopag1.PNG);
-    background-position: top;
-    width: auto;
-    height: 300px;
+.imagen{
+    height: 400px;
 }
 
 .negritaycolor{
@@ -56,7 +53,7 @@
 }
 
 .imagenpag2{
-    background-image: url(img/imagenGrupoPag2.PNG);
+    background-image: url(img/imagenGrupopag2.jpg);
     background-position: top;
     width: auto;
     height: 300px;
