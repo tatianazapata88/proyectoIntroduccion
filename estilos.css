@@ -4,7 +4,7 @@
 }
 
 .parrafo1{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .footerindex{
@@ -14,12 +14,13 @@
 }
 
 .imagen{
-    height: 400px;
+    height: 390px;
 }
 
 .negritaycolor{
     font-weight: bold;
     color: rgb(131, 65, 11);
+    font-size: 25px;
 }
 
 .video{
@@ -33,6 +34,7 @@
     font-style: italic;
     color: burlywood;
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
 .negrita{
